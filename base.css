@@ -13,6 +13,7 @@ body {
     color: white;
     gap: 5vh;
     font-family: "Montserrat", sans-serif;
+    font-weight: 700;
 }
 .container {
     padding: 2.5vh;
